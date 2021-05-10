@@ -1,0 +1,5 @@
+The program is written in C++
+The array given has 10 elements. 1 through 10
+The expected output is 5 
+The actual output is 5
+Change array to verify
